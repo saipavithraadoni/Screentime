@@ -1,2 +1,1 @@
-# Screentime
-Analysed screen time usage across various age groups and occupations
+I conducted a survey and gathered data on various factors including timestamp, name, age, employment status, primary digital devices used, main activities during screen time, frequency of physical activities or hobbies not involving digital devices, any observed physical or mental health effects due to excessive screen time, and average screen time. I then analyzed this data using visualizations.
