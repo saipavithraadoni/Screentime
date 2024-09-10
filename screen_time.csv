@@ -1,0 +1,61 @@
+Timestamp,Name,Age,occupation,device,Activities,no_screen,health,screen_time
+21-07-2023 13:46,Madhav Sai,22,"No, I am a student",Smartphone,"Gaming, Social media browsing, Watching videos/movies/TV shows",Never,Yes,more than 8 hours
+21-07-2023 13:56,Pavithra,22,"No, I am a student","Smartphone, Laptop/Computer",Social media browsing,Occasionally,No,more than 8 hours
+21-07-2023 13:57,Diru,25,"No, I am a student","Tablet, Laptop/Computer",Watching videos/movies/TV shows,Never,No,more than 8 hours
+21-07-2023 14:00,Geethika ,22,"Yes, I work in IT Industry",Laptop/Computer,"Work-related tasks, Watching videos/movies/TV shows, E-books",Occasionally,Yes,more than 8 hours
+21-07-2023 14:01,Nithyusha ,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Watching videos/movies/TV shows",Occasionally,Yes,7 to 8 hours
+21-07-2023 14:03,Shivam,27,"No, I am a student","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,5 to 6 hours
+21-07-2023 14:03,Dhanusree Avula ,22,"No, I am a student",Smartphone,"Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,7 to 8 hours
+21-07-2023 14:07,Ram Prathyusha Gangisetty,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,7 to 8 hours
+21-07-2023 14:08,Lahari,23,"Yes, I work in IT Industry",Smartphone,"Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,3 to 4 hours
+21-07-2023 14:18,Divya,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Watching videos/movies/TV shows",Frequently,Yes,3 to 4 hours
+21-07-2023 14:20,Praneeth,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,more than 8 hours
+21-07-2023 14:20,P Deepika ,23,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Watching videos/movies/TV shows",Occasionally,Yes,more than 8 hours
+21-07-2023 14:20,Saicharan,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Watching videos/movies/TV shows",Never,No,7 to 8 hours
+21-07-2023 14:21,M V SRIHARI ,24,"No, I am a student",Smartphone,Social media browsing,Never,Yes,more than 8 hours
+21-07-2023 14:22,Kalyan,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,7 to 8 hours
+21-07-2023 14:23,Suneetha ,23,"Yes, not an IT employee","Smartphone, Laptop/Computer","Work-related tasks, Social media browsing",Frequently,No,5 to 6 hours
+21-07-2023 14:24,Prakash,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,7 to 8 hours
+21-07-2023 14:24,Purushotham,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Never,Yes,more than 8 hours
+21-07-2023 14:30,A. Lakshmi priya,23,"No, I am a student",Smartphone,Social media browsing,Occasionally,No,3 to 4 hours
+21-07-2023 14:30,Panjagalla Naga Poornima ,20,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Watching videos/movies/TV shows",Occasionally,No,7 to 8 hours
+21-07-2023 14:41,Madhav Sai,20,"No, I am a student",Laptop/Computer,"Social media browsing, Watching videos/movies/TV shows",Never,Yes,7 to 8 hours
+21-07-2023 14:47,G L JAHNAVI ,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Watching videos/movies/TV shows",Occasionally,Yes,more than 8 hours
+21-07-2023 14:49,Sathya,23,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,more than 8 hours
+21-07-2023 14:50,Sowmya,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Watching videos/movies/TV shows",Occasionally,Yes,7 to 8 hours
+21-07-2023 15:06,Brahma Naidu Chandra ,20,"No, I am a student",Smartphone,"Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,3 to 4 hours
+21-07-2023 15:07,KAMMARI JASHWANTH ACHARI ,23,"No, I am a student",Smartphone,Social media browsing,Frequently,No,5 to 6 hours
+21-07-2023 15:12,Kammara Pranava Sai Deepak Achari,19,"No, I am a student","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,Less than 1 hour
+21-07-2023 15:12,Manu,21,"No, I am a student","Smartphone, Laptop/Computer","Work-related tasks, Gaming, Watching videos/movies/TV shows",Frequently,Yes,3 to 4 hours
+21-07-2023 15:15,Vamsi ,20,"No, I am a student",Smartphone,Educational purposes,Frequently,Yes,5 to 6 hours
+21-07-2023 15:31,Komera kartheek ,26,"Yes, I work in IT Industry",Smartphone,Social media browsing,Never,Yes,1 to 2 hours
+21-07-2023 15:32,Sai Sathish ,21,"No, I am a student","Smartphone, Laptop/Computer",Watching videos/movies/TV shows,Never,Yes,more than 8 hours
+21-07-2023 15:33,Sreekanth,21,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,7 to 8 hours
+21-07-2023 15:41,Sarayu,23,"Yes, I work in IT Industry",Laptop/Computer,"Work-related tasks, Educational purposes, Meetings",Occasionally,Yes,more than 8 hours
+21-07-2023 15:46,Vadla Hemanth Achari,20,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Social media browsing",Frequently,Yes,5 to 6 hours
+21-07-2023 15:45,Ashwini k ,23,"No, I am a student",Smartphone,"Work-related tasks, Educational purposes, Watching videos/movies/TV shows",Frequently,Yes,3 to 4 hours
+21-07-2023 16:01,Lakkakulakundanasai ,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,more than 8 hours
+21-07-2023 16:05,Sarayu,22,"Yes, I work in IT Industry",Laptop/Computer,Work-related tasks,Occasionally,Yes,5 to 6 hours
+21-07-2023 16:23,Sai Tharun ,23,"Yes, I work in IT Industry",Smartphone,Educational purposes,Frequently,No,1 to 2 hours
+21-07-2023 16:28,Badri vishal ,23,"Yes, I work in IT Industry",Smartphone,"Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,7 to 8 hours
+21-07-2023 16:28,Charan ,22,"Yes, I work in IT Industry",Laptop/Computer,Work-related tasks,Frequently,No,7 to 8 hours
+21-07-2023 16:30,Gurunath,24,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing",Frequently,Yes,7 to 8 hours
+21-07-2023 16:44,Madhu ,22,"Yes, not an IT employee","Smartphone, Laptop/Computer",Educational purposes,Occasionally,No,5 to 6 hours
+21-07-2023 16:49,Charan,22,"No, I am a student","Smartphone, Tablet, Laptop/Computer","Work-related tasks, Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Occasionally,No,7 to 8 hours
+21-07-2023 17:09,Koppolu Deepak ,22,"No, I am a student",Smartphone,"Educational purposes, Gaming, Social media browsing, Watching videos/movies/TV shows",Occasionally,Yes,5 to 6 hours
+21-07-2023 17:25,Sahithi,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Social media browsing",Occasionally,Yes,7 to 8 hours
+21-07-2023 17:56,D.Arun kumar ,22,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Gaming, Watching videos/movies/TV shows",Occasionally,No,1 to 2 hours
+21-07-2023 18:06,V HEMANTH ,21,"Yes, I work in IT Industry","Smartphone, Tablet, Laptop/Computer","Work-related tasks, Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,No,3 to 4 hours
+21-07-2023 18:10,Hajira,28,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Watching videos/movies/TV shows",Occasionally,Yes,1 to 2 hours
+21-07-2023 18:30,Bhanu,23,"No, I am a student","Smartphone, Laptop/Computer","Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Frequently,No,3 to 4 hours
+21-07-2023 21:57,Ashalatha ,26,"No, I am a student",Smartphone,Social media browsing,Occasionally,Yes,1 to 2 hours
+22-07-2023 04:51,Mahendra Sankula ,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,No,more than 8 hours
+22-07-2023 05:01,Krishna,20,"Yes, I work in IT Industry",Laptop/Computer,"Work-related tasks, Watching videos/movies/TV shows",Frequently,Yes,more than 8 hours
+22-07-2023 07:49,Lokesh Royal M,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Gaming, Social media browsing, Watching videos/movies/TV shows",Frequently,Yes,more than 8 hours
+22-07-2023 07:50,KANDULA MANASA ,22,"Yes, I work in IT Industry","Smartphone, Laptop/Computer","Work-related tasks, Watching videos/movies/TV shows",Never,Yes,3 to 4 hours
+22-07-2023 09:53,Sreeja Ummadisetty ,21,"No, I am a student","Smartphone, Laptop/Computer","Educational purposes, Watching videos/movies/TV shows",Occasionally,No,1 to 2 hours
+22-07-2023 11:45,Kalyan ,19,"No, I am a student",Smartphone,"Work-related tasks, Educational purposes, Social media browsing, Watching videos/movies/TV shows",Occasionally,No,3 to 4 hours
+22-07-2023 12:50,Sravani ,22,"No, I am a student",Smartphone,Educational purposes,Occasionally,Yes,1 to 2 hours
+22-07-2023 13:36,Nicky,22,"Yes, not an IT employee",Smartphone,Watching videos/movies/TV shows,Occasionally,Yes,5 to 6 hours
+04-08-2023 15:50,Gunta,35,"Yes, not an IT employee",Smartphone,Work-related tasks,Occasionally,No,3 to 4 hours
+04-08-2023 15:51,Finn,20,"No, I am a student",Smartphone,"Social media browsing, Watching videos/movies/TV shows",Occasionally,No,more than 8 hours
